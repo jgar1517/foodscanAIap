@@ -1,1 +1,1 @@
-FoodScannerApp1
+foodscannerapp
